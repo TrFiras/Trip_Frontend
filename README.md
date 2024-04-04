@@ -100,11 +100,8 @@ This section should list any major frameworks/libraries used to create our proje
 - [![React][React.js]][React-url]
 - [![Atomic][Atomic.js]][Atomic-url]
 - [![Sonar][Sonar.js]][Sonar-url]
-- [![DotNet][.dotnet.js]][.DotNet-url]
 - [![DotNet][Material.js]][Material-url]
 - [![Sonar][Docker.js]][Docker-url]
-- [![SQLite][SQLite.js]][SQLite-url]
-- [![layers][Layers.js]][Layers-url]
 - [![Vite][Vite.js]][Vite-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
