@@ -18,14 +18,14 @@
 users to see details of their upcoming trip, using a GraphQL API like
 intermediary for multiple REST APIs.
     <br />
-    <a href="https://github.com/Firastrabelsi94/Trip-Application-Frontend/blob/TripBranch/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TrFiras/Trip_Frontend/blob/TripBranch/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="LINK TO YOUTUBE">View Demo</a>
     ·
-    <a href="https://github.com/Firastrabelsi94/Trip-Application-Frontend/issues/new">Report Bug</a>
+    <a href="https://github.com/TrFiras/Trip_Frontend/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/Firastrabelsi94/Trip-Application-Frontend">Request Contributor access</a>
+    <a href="https://github.com/TrFiras/Trip_Frontend">Request Contributor access</a>
   </p>
 </div>
 
@@ -305,16 +305,16 @@ Firas Trabelsi - [@your_twitter](https://twitter.com/your_username) - email@exam
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[contributors-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[forks-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/network/members
-[stars-shield]: https://img.shields.io/github/stars/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[stars-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[issues-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/issues
-[license-shield]: https://img.shields.io/github/license/Firastrabelsi94/Trip-Application-Frontend.svg?style=for-the-badge
-[license-url]: https://github.com/Firastrabelsi94/Trip-Application-Frontend/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TrFiras/Trip_Frontend.svg?style=for-the-badge
+[contributors-url]: https://github.com/TrFiras/Trip_Frontend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TrFiras/Trip_Frontend.svg?style=for-the-badge
+[forks-url]: https://github.com/TrFiras/Trip_Frontend/network/members
+[stars-shield]: https://img.shields.io/github/stars/TrFiras/Trip_Frontend.svg?style=for-the-badge
+[stars-url]: https://github.com/TrFiras/Trip_Frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TrFiras/Trip_Frontend.svg?style=for-the-badge
+[issues-url]: https://github.com/TrFiras/Trip_Frontend/issues
+[license-shield]: https://img.shields.io/github/license/TrFiras/Trip_Frontend.svg?style=for-the-badge
+[license-url]: https://github.com/TrFiras/Trip_Frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Firastrabelsi94
 [product-screenshot]: src/assets/trip.png
