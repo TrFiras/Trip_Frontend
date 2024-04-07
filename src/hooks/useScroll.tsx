@@ -1,12 +1,15 @@
+import { Paths } from "../routes/paths";
+import { useCustomNavigate } from "../routes/paths";
 
-const useScroll = (elementId:string) => {
-  const scrollToView = () => {
-    const targetElement = document.getElementById(elementId);
-    if (targetElement) {
-      targetElement.scrollIntoView();
-    }
-  };
-  return scrollToView;
+
+const useScroll = () => {
+  
+  const Mynavigate = useCustomNavigate();
+
+  const addReservation = async () => {
+  Mynavigate(Paths.clienttemplate + Paths.client.book);
+  }
+  return addReservation;
 };
 
 export default useScroll;

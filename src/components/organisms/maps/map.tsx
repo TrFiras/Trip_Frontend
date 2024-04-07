@@ -28,7 +28,6 @@ const MapStreet: React.FC<MapStreetProps> = ({
 }) => {
   const { getAirports } = useAirports();
   const { data,  } = getAirports();
-console.log(data);
   return (
     <MapContainer style={{ height: "350px" }} center={center} zoom={2}>
       <TileLayer

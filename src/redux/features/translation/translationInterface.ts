@@ -1,4 +1,5 @@
 export interface Translations {
+  findClientHome: string;
   titleapp: string;
   toggledarkmode:string;
   createpost:string;

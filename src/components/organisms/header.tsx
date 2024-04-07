@@ -9,10 +9,12 @@ import Logo from "../../assets/travel_logo_app.png";
 import LanguageSelector from "../molecules/LanguageSelector";
 import { DarkModeToggle } from "../molecules/darkModeToggle";
 import useScroll from "../../hooks/useScroll";
+import useHome from "../../hooks/useHome";
 
 const Header: React.FC = () => {
   const { translations } = useTranslations();
-  const navigateToReservationSection = useScroll('reservationSection');
+  const navigateToReservationSection = useScroll();
+  const navigateToHome = useHome();
 
 
   return (
@@ -41,6 +43,14 @@ const Header: React.FC = () => {
           onClick={navigateToReservationSection}
         >
           {translations.findreserveration}
+        </ButtonAtom>
+        <ButtonAtom
+          variant="contained"
+          color="primary"
+          sx={{ marginLeft: "10px" , display: { xs: "none", sm: "block" } }}
+          onClick={navigateToHome}
+        >
+          {translations.findClientHome}
         </ButtonAtom>
       </ToolbarAtom>
     </AppBarAtom>

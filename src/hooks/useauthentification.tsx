@@ -53,7 +53,6 @@ export const useLogin = () => {
     try {
       await loginMutation.mutateAsync(user);
       dispatch(setAuthStatus(true));
-      console.log(loginMutation);
       Mynavigate(Paths.clienttemplate + Paths.client.home);
       displayNotification({
         title: "",

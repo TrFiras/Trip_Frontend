@@ -26,6 +26,7 @@ function ListRoutes() {
 
           <Route path={Paths.authtemplate} element={<AuthTemplate />}>
             <Route path={Paths.auth.login} element={<LogIn />} />
+            <Route path={Paths.authtemplate} element={<LogIn />} />
             <Route path={Paths.auth.register} element={<Register/>} />
 
           </Route>

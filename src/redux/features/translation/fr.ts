@@ -17,7 +17,8 @@ const fr: Translations = {
   confirmdelete: "Confirmer la suppression",
   confirm: "Confirmer",
   isconfirmeddelete: "etes vous sur de la suppresion",
-  findreserveration: "Rechercher ma reservation",
+  findreserveration: "Ajouter une reservation",
+  findClientHome: "Mes réservations",
   welcome: "Bienvenue dans notre application",
   welcomeinformation:
     "Bienvenue dans notre application de consultation des détails de voyage ! Nous sommes ravis de vous accueillir dans cet espace intuitif conçu pour simplifier et améliorer votre expérience de voyage. Avec notre application, vous pouvez facilement accéder à toutes les informations essentielles liées à vos voyages en un seul endroit.",

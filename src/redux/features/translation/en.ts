@@ -20,7 +20,8 @@ const en: Translations = {
   login: "login",
   register: "register",
   confirmaccount: "Confirm account",
-  findreserveration: "Find my reservation",
+  findreserveration: "Add a reservation",
+  findClientHome: "My reservations",
   welcome: "Welcome to our application",
   welcomeinformation:
     "Welcome to our trip details consultation application! We are delighted to welcome you to this intuitive space designed to simplify and enhance your travel experience. With our application, you can easily access all the essential information related to your journeys in one place.  ",

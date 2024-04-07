@@ -17,7 +17,6 @@ const HotelList: React.FC = () => {
   const { translations } = useTranslations();
   const { getHotels } = useHotels();
   const { data,  } = getHotels();
-  console.log(data);
   return (
     <BoxAtom sx={{ backgroundColor: "info.500" }}>
       <TypographyAtom variant="h3" color="info.100" textAlign="center">

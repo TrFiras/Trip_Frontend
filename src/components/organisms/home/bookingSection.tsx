@@ -26,15 +26,11 @@ const BookingSection: React.FC = () => {
   );
   const { data } = getClientByFullName();
   const { displayNotification } = useNotification();
-console.log("******************************************");
   const handleSearchClick = async () => {
     try {
-      console.log(firstName);
-      console.log(lastName);
        getClientByFullName(); // Call the API
 
       // Open the dialog only if data is available
-      console.log(data);
       if (data) {
         setOpen(true);
       }

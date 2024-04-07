@@ -30,11 +30,9 @@ const FindFlight: React.FC = () => {
     } else  {
       setDestination(position);
     }
-    console.log(source);
   };
   const imageClick = (flight: IFlightBook) => {
     setselectedFlight(flight);
-    console.log(flight);
   } 
   return (
     <BoxAtom sx={{ padding: "20px", backgroundColor: "info.500" }}>

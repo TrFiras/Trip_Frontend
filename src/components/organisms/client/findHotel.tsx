@@ -80,7 +80,6 @@ export const FindHotel: React.FC = () => {
     if (isValid) {
       console.log("valid")
     }
-    //completeStep()
   };
   const [priceRange, setPriceRange] = useState<[number, number]>([0, 1000]);
   const [rating, setRating] = useState<number>(3);
