@@ -141,7 +141,6 @@ Vite requires Node.js version >=14.18.0, so please ensure to have Node version g
 ### Installation
 
 <hr/>
-<p>_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._</p>
 
 <p>1. Run SonarQube
  First open windows services from Start Menu => Run => ServicesMsc, Search for Docker and right click then Start. After that go to application terminal and Built the image and wait Sonar to finalize the analysis.
@@ -154,23 +153,11 @@ Once analysis finalized, open this link in your browser: http://localhost:9000
 
   </p>
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key from GitHub account to be able to clone the project
 2. Clone the repo
 
 ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-```
-
-3. Install NPM packages
-
-```sh
-   npm install
-```
-
-4. Enter your API in `config.js`
-
-```js
-const API_KEY = "ENTER YOUR API";
+   git clone https://github.com/your_username_/Project-Name.git](https://github.com/TrFiras/Trip_Frontend.git
 ```
 
 5. Build images using docker:
