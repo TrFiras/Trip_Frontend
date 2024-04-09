@@ -189,11 +189,11 @@ Once analysis finalized, open this link in your browser: http://localhost:9000
 
 1. Login Page: http://localhost:8080/login
    You can follow this link to login to your space as client in the application or Register by clicking on the "register" button if you visit the application for the first time. We are offering also Mode Light and Mode Dark and you can change it based on the top right toggle button, same for the language, our application support 2 languages 'Fr' and 'En'</br>
-   <img src="src/assets/ScreenShotsApp/Loginpage.PNG" height="400px" width="800px">
+   <img src="src/assets/ScreenShotsApp/Loginpage.png" height="400px" width="800px">
 
 2. Register Page: http://localhost:8080/register
    You can follow this link to be able to create new account as client in the agency and then login to start consulting offers, hotels, flight and book your needs to create your travel file.<br/>
-   <img src="src/assets/ScreenShotsApp/RegisterPage.PNG" height="400px" width="800px">
+   <img src="src/assets/ScreenShotsApp/RegisterPage.png" height="400px" width="800px">
 
 3. List of hotels in the agency: http://localhost:8080/client/home
    You can access to the list of hotels with their information by clicking on the button "Explore Hotels", then a popup with Carousel will be displayed.<br/>
