@@ -151,6 +151,8 @@ docker compose up
 
 Once analysis finalized, open this link in your browser: http://localhost:9000
 
+![image](https://github.com/TrFiras/Trip_Frontend/assets/165997798/857597ec-36c0-46ed-a4d8-3edf93927aad)
+
   </p>
 
 1. Get a free API Key from GitHub account to be able to clone the project
