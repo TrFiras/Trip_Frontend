@@ -189,28 +189,28 @@ Once analysis finalized, open this link in your browser: http://localhost:9000
 
 1. Login Page: http://localhost:8080/login
    You can follow this link to login to your space as client in the application or Register by clicking on the "register" button if you visit the application for the first time. We are offering also Mode Light and Mode Dark and you can change it based on the top right toggle button, same for the language, our application support 2 languages 'Fr' and 'En'</br>
-   <img src="src/assets/ScreenShots App/Login page.PNG" height="400px" width="800px">
+   <img src="src/assets/ScreenShotsApp/Loginpage.PNG" height="400px" width="800px">
 
 2. Register Page: http://localhost:8080/register
    You can follow this link to be able to create new account as client in the agency and then login to start consulting offers, hotels, flight and book your needs to create your travel file.<br/>
-   <img src="src/assets/ScreenShots App/Register Page.PNG" height="400px" width="800px">
+   <img src="src/assets/ScreenShotsApp/RegisterPage.PNG" height="400px" width="800px">
 
 3. List of hotels in the agency: http://localhost:8080/client/home
    You can access to the list of hotels with their information by clicking on the button "Explore Hotels", then a popup with Carousel will be displayed.<br/>
-   <img src="src/assets/ScreenShots App/List of Hotels.png" height="400px" width="800px">
+   <img src="src/assets/ScreenShotsApp/ListofHotels.PNG" height="400px" width="800px">
 
 4. Create new travel file: http://localhost:8080/client/book
    You can access to the link above to be able as client to consult list of hotels/flights and create new file for travel or hosting.</br>
    Step1: Choose the right hotel.<br/>
-   <img src="src/assets/ScreenShots App/BookTravelStep1.png" height="400px" width="800px"><br/>
+   <img src="src/assets/ScreenShotsApp/BookTravelStep1.PNG" height="400px" width="800px"><br/>
    Step2: Add needed rooms for client and for fellow travellers.<br/>
-   <img src="src/assets/ScreenShots App/BookTravelStep2.png" height="400px" width="800px"><br/>
+   <img src="src/assets/ScreenShotsApp/BookTravelStep2.PNG" height="400px" width="800px"><br/>
    Step3: Choose the right fligh (Optional step)<br/>
-   <img src="src/assets/ScreenShots App/BookTravelStep3.png" height="400px" width="800px"><br/>
+   <img src="src/assets/ScreenShotsApp/BookTravelStep3.PNG" height="400px" width="800px"><br/>
 
 5. Find my reservations: http://localhost:8080/client/home
    You can access to the link above to be able to consult your reservations (Created Files containing flights/hotels), to get the right data, you need to fill-in your first and last name.</br>
-   <img src="src/assets/ScreenShots App/Find my reservations.png" height="400px" width="800px"><br/>
+   <img src="src/assets/ScreenShotsApp/Findmyreservations.PNG" height="400px" width="800px"><br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,23 +220,23 @@ Once analysis finalized, open this link in your browser: http://localhost:9000
 
 0. Models/Interfaces:<br/>
    Let's first understand the difference between entities and models in front. Well, entities are for capturing data from the database, and that’s their concern, whereas models are for the front-end and contain all the cumulative information that a user might want. Models may ignore some data from an entity and include many entities or may even be exactly the same as the entity itself. Either way remember this: models represent our front-end concerns, entities represent our database concerns.<br/>
-   <img src="src/assets/ScreenShots App/CodeSamples/Model1.PNG" height="160px" width="140px"><br/>
-   <img src="src/assets/ScreenShots App/CodeSamples/Model2.PNG" height="260px" width="180px"><br/>
+   <img src="src/assets/ScreenShotsApp/CodeSamples/Model1.PNG" height="160px" width="140px"><br/>
+   <img src="src/assets/ScreenShotsApp/CodeSamples/Model2.PNG" height="260px" width="180px"><br/>
 1. Atomic Design (Atoms & Molecules & Organisms):<br/>
    In the natural world, atomic elements combine together to form molecules. These molecules can combine further to form relatively complex organisms. To expound a bit further:<br/>
 
 - Atoms are the basic building blocks of all matter. Each chemical element has distinct properties, and they can’t be broken down further without losing their meaning. (Yes, it’s true atoms are composed of even smaller bits like protons, electrons, and neutrons, but atoms are the smallest functional unit.)
   <br/>
-  <img src="src/assets/ScreenShots App/CodeSamples/Atom.PNG" height="400px" width="600px"><br/>
+  <img src="src/assets/ScreenShotsApp/CodeSamples/Atom.PNG" height="400px" width="600px"><br/>
 - Molecules are groups of two or more atoms held together by chemical bonds. These combinations of atoms take on their own unique properties, and become more tangible and operational than atoms.
   <br/>
-  <img src="src/assets/ScreenShots App/CodeSamples/Molecule.PNG" height="400px" width="500px"><br/>
+  <img src="src/assets/ScreenShotsApp/CodeSamples/Molecule.PNG" height="400px" width="500px"><br/>
 - Organisms are assemblies of molecules functioning together as a unit. These relatively complex structures can range from single-celled organisms all the way up to incredibly sophisticated organisms like human beings.. In our case, it represent our created components using Atoms and Molecules.<br/>
-<img src="src/assets/ScreenShots App/CodeSamples/Organism.PNG" height="400px" width="500px"><br/>
+<img src="src/assets/ScreenShotsApp/CodeSamples/Organism.PNG" height="400px" width="500px"><br/>
 2. Services: They are the responsible to call backend RestApis/GraphQL in order to retrieve data for specific entities or to save an entity in our database.<br/>
-<img src="src/assets/ScreenShots App/CodeSamples/Service.PNG" height="400px" width="500px"><br/>
+<img src="src/assets/ScreenShotsApp/CodeSamples/Service.PNG" height="400px" width="500px"><br/>
 2. Hooks: Instead, Hooks provide a more direct API for React concepts you already know: props, local state, context, refs, and lifecycle. It will be used in our case to get data from the services and then pass it to the component to be displayed in the client side<br/>
-<img src="src/assets/ScreenShots App/CodeSamples/Hook.PNG" height="400px" width="500px"><br/>
+<img src="src/assets/ScreenShotsApp/CodeSamples/Hook.PNG" height="400px" width="500px"><br/>
 
 
 <!-- ROADMAP -->
